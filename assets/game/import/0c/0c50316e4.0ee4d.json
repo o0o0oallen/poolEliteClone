@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"免费复活","texture":"1e23cd0ad","rect":[100,668,315,121],"offset":[0,0],"originalSize":[315,121],"rotated":1,"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"复活","texture":"18138cb60","rect":[918,143,103,47],"offset":[0,0],"originalSize":[103,47],"capInsets":[0,0,0,0]}}]

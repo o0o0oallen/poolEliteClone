@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"道具1_正常","texture":"1e23cd0ad","rect":[3,540,122,112],"offset":[0,0],"originalSize":[122,112],"rotated":1,"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"道具2_正常","texture":"1e23cd0ad","rect":[759,340,123,112],"offset":[0,0],"originalSize":[123,112],"capInsets":[0,0,0,0]}}]

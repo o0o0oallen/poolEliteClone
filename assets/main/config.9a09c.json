@@ -1,0 +1,24 @@
+{
+    "paths": {},
+    "types": [],
+    "uuids": ["02AFeSBmpPgbfUOG9r9WXm", "152e8d7e0", "15919ee06", "014l0ENydID55t2OzyXVrT", "017Bn88ghM3oVWq+cIZOre", "0aZecIa8NAyJiY+ANvVSpK", "0b/n9VcrhDdalMP4f7lbRx", "1304YEsWVKD6yY2p+N82LR", "14xhy2WWpB7ZN4g44yg/hB", "17HaqBaE5C1bmHPS9SvK/s", "188wN1rnROz7cVQ90O8hEa", "25LQARZ/JEybSPtEWg9oDK", "29YtvfVddGQLt6E0oPmNjr", "31KxK0jzNMtZaEIyXLc6ar", "3dla/+vMxKKq7pC7WaesxV", "45hbLsQrFEZ5flWPZbL1J8", "4bBhxl9FlIeq9hK3uqv3I6", "4c4yf+fH9C3a+i2NS57NuX", "5eGrxwYDpK3aLQhgG+I2Fr", "6dUOiCgJNLpaEAxzT1L2AN", "6db2a9IQZOyLPhyAS/sqXG", "75eWw9Cx9CRbDnYTmVV0CW", "81pgx284hKz4Tlrqr1L8Zo", "89f3foOatE1oEFQR2gs0Zw", "8akkguLPJAPrn6EL6xW2Nd", "98bFPoHu1Nh6T5WFDKefyQ", "a1NlixxIRD8IloQKKEf9BX", "a9mapgcgJAUrjubwW/KfCO", "b2JODQBwdEu6xw9GscnaRD", "b8hMqsibBAILNfvdYb7zlp", "b8oDdEliJAFrko13kuBWGz", "c3kR7jCiZOD7yzDiJHfeWF", "c7Oc0tR65KdbeoPoCbnD49", "cbugjQsDlO2rESxu17FdbQ", "d4UcY8jWxL85kvYrXQXbzZ", "dcQpbg35NEjZ3KFxfzP1+X", "e6NY7RdUxGtqALh0yOJMLD", "e9QhjhBWVI/pM/+nNwMnpC", "ecpdLyjvZBwrvm+cedCcQy", "edRvznsGhKN5wEJYmn/mwy", "eekKuZdQpDSqbTr0TTtZoB", "f2tXyp0axEFY7X1zUw6gUB", "f64+Yio2ZLrJHoZ7q8yC0j", "f91tBmDKxO1po5zPoUjx3h", "fcagWv/x1Hkqg1zFxzLBaU", "fdZ+FLNoFGtYmgI6Rsppg4", "fexlzrXhlLTYcjNe9k/Dg4", "ff9OvkI7ZBJoRh+au9XI3p"],
+    "scenes": {
+        "db://assets/Scene/gameScene.fire": 0
+    },
+    "redirect": [38, 0],
+    "deps": ["internal"],
+    "packs": {
+        "03d14e897": [4, 0, 5, 7, 15, 25, 40, 42],
+        "064fa65a0": [1, 2]
+    },
+    "name": "main",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": false,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [3, "bf991", "03d14e897", "97984", "064fa65a0", "884a9", 6, "cc7ba", 8, "bad6f", 9, "c68be", 10, "7844f", 11, "c661a", 12, "b745e", 13, "b57e2", 14, "bd829", 16, "af2b8", 17, "92f2e", 18, "c5ef3", 19, "caeab", 20, "c198e", 21, "d0b70", 22, "152e4", 23, "2cf95", 24, "8afcf", 26, "1083f", 27, "a1710", 28, "d9fa6", 29, "dcd05", 30, "f1c6a", 31, "8d301", 32, "94290", 33, "9238e", 34, "cdc80", 35, "d6a93", 36, "b21c0", 37, "0116a", 39, "213d2", 41, "ae64a", 43, "d73c8", 44, "83b1c", 45, "6c3f0", 46, "41700", 47, "602d6"],
+        "native": [1, "7d4ae", 2, "34b2f"]
+    }
+}
